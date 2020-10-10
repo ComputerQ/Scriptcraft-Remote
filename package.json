@@ -1,0 +1,24 @@
+{
+  "name": "scriptcraft-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "socket.io-client": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputerQ/Scriptcraft-Remote.git"
+  },
+  "author": "Quinten Muyllaert",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/ComputerQ/Scriptcraft-Remote/issues"
+  },
+  "homepage": "https://github.com/ComputerQ/Scriptcraft-Remote#readme"
+}
